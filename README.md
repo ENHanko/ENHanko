@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ENHanko
-- 👀 I’m interested in learning something every day.
-- 🌱 I’m currently learning js
-- 📫 Reach me on Telegram @ENHanko
+- 👋 Hi.
+      Enough said. Let´s write. 
 
 <!---
 ENHanko/ENHanko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
